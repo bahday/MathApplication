@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXe+yKxil4aeB/gU1mcZ5aiBAF8uJcxPq1O3w96rCEDYDAGCvu+4f9c/v9wJcttO334pbyiHkznyNOsuGXNLgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yaroslav Bahdai\\source\\MathApplication\\MathApplication\\MathApplication\\MathApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yaroslav Bahdai\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Yaroslav Bahdai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
